@@ -2,7 +2,7 @@
 
 CHASM is a project focused on creating analytics and social media metrics to help define community health of cryptocurrencies.
 
-Project Description:
+### Project Description:
 
 When public listed companies such as Amazon hold shareholder meetings they talk about products and highlights such as upcoming AWS tools,  products utilization, developer interest, market share, profit generated, etc. Comparatively, In crypto space, most of the attention is given to market caps. There’s a need for an open source analytics library that can help project contributors and investors monitor the overall health of the Cryptoasset. 
 CHASM (Cryptoassets Health Analytics and Social Metrics), a project focused on creating analytics and metrics to help define community health of crypto assets. It would allow founders and investors to understand interactivity between project life-cycle factors such as developer and customer activity. 
