@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## CHASM (Cryptoassets Health Analytics and Social Metrics)
 
-You can use the [editor on GitHub](https://github.com/chasmproject/chasmpro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CHASM is a project focused on creating analytics and social media metrics to help define community health of cryptocurrencies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Project Description:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chasmproject/chasmpro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When public listed companies such as Amazon hold shareholder meetings they talk about products and highlights such as upcoming AWS tools,  products utilization, developer interest, market share, profit generated, etc. Comparatively, In crypto space, most of the attention is given to market caps. There’s a need for an open source analytics library that can help project contributors and investors monitor the overall health of the Cryptoasset. 
+CHASM (Cryptoassets Health Analytics and Social Metrics), a project focused on creating analytics and metrics to help define community health of crypto assets. It would allow founders and investors to understand interactivity between project life-cycle factors such as developer and customer activity. 
+The importance of Open Source Cryptoassets is no longer in question. However, its importance raises important questions about the open source ecosystem. Project contributors want to know where they should place their efforts and know that they are making an impact. Crypto communities want to attract new members, ensure consistent quality, and reward valuable members. Crypto projects want to know which communities and packages to engage with, communicate the impact the organization has on the community, and evaluate the work of their employees within projects. 
+Taking inspiration from Linux Foundation’s metrics community we are developing metrics, and methodologies for expressing crypto project health and sustainability. By measuring project health and sustainability, we aim to improve the transparency and actionability of project health and sustainability so that contributors and investors can make more informed decisions about Cryptoassets.
